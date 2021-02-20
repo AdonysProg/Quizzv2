@@ -1,0 +1,347 @@
+[
+  {
+    "id": "1",
+    "title": "¿Qué es la resistencia de materiales?",
+    "answer": "La resistencia de los materiales es el estudio de las propiedades de los cuerpos solidos que les permite resistir la acción de las fuerzas externas, el estudio de las fuerzas internas en los cuerpos y de las deformaciones ocasionadas por las fuerzas externas."
+  },
+  {
+    "id": "2",
+    "title": "¿Qué es la resistencia de materiales clásica?",
+    "answer": "La resistencia de materiales clásica es una disciplina de la ingeniería mecánica, la ingeniería estructural y la ingeniería industrial que estudia la mecánica de solidos deformables mediante modelos simplificados. La resistencia de un elemento se define como su capacidad para resistir esfuerzos y fuerzas aplicadas sin romperse, adquirir deformaciones permanentes o deteriorarse de algún modo."
+  },
+  {
+    "id": "3",
+    "title": "¿Qué establece un modelo de resistencia de materiales?",
+    "answer": "Un modelo de resistencia de materiales establece una relación entre las fuerzas aplicadas, también llamadas cargas o acciones, y los esfuerzos y desplazamientos inducidos por ellas. Generalmente las simplificaciones geométricas y las restricciones impuestas sobre el modo de aplicación de las cargas hacen que el campo de deformaciones y tensiones sean sencillos de calcular."
+  },
+  {
+    "id": "4",
+    "title": "¿Qué es una viga?",
+    "answer": "Una viga es un elemento lineal con capacidad portante predominante a la flexión, una viga puede ser vertical horizontal u oblicua pues es definida por su configuración geométrica."
+  },
+  {
+    "id": "5",
+    "title": "¿Qué es un elemento de alma llena?",
+    "answer": "Es un sólido compuesto por un material de construcción altamente resistente de configuración geométrica prismática o cilíndrica, los elementos de alma llena prismática tiene 3 dimensiones predominantes :altura(H), longitud(L), y base (B) si la razón resultante de dimensión la primer división entre la segunda división es mayor igual a 2 al segundo elemento de alma llena le denominaremos elemento lineal."
+  },
+  {
+    "id": "6",
+    "title": "¿Como se define un elemento lineal?",
+    "answer": "Los elementos lineales o unidimensionales o prismas mecánicos, están generalmente sometidos a un estado de tensión plana con esfuerzos tensiones grandes en la dirección de línea baricentrica (que puede ser recto o curvo). Geométricamente son alargados siendo la dimensión según dicha línea (altura, luz o longitud de arco), mucho mayor que las dimensiones según la sección transversal, perpendicular en cada punto a la línea baricentrica."
+  },
+  {
+    "id": "7",
+    "title": "¿Cuales son los elementos lineales más comunes según su posición y forma?",
+    "answer": "-verticales, comprimidos y rectos: columna (sección circular) o pilares (sección poligonal), pilote (cimentación). -horizontales, flexionados y rectos: viga, dintel, zapata corrida para cimentación, correa de sustentación de cubierta. -diagonales y rectos: barras de arrostramiento de cruces de San Andrés, barras diagonales de una celosía o entramado triangulado, en este caso los esfuerzos pueden ser de flexión tracción dominante o compresión dominante. -flexionados y curvos: que corresponden a arcos continuos cuando los esfuerzos se dan según el plano de curvatura o a vigas balcón cuando los esfuerzos son perpendiculares al plano de curvatura."
+  },
+  {
+    "id": "8",
+    "title": "¿Qué es un soporte?",
+    "answer": "Llamado también columna o pilastra, es un elemento lineal con capacidad predominante a la compresión. Existen 3 criterios para dimensionar un soporte y los 3 deben aplicarse: 1.criterio de la resistencia del material, 2.criterio de la capacidad de trabajo y 3.criterio de la estabilidad elástica."
+  },
+  {
+    "id": "9",
+    "title": "¿Que son los ejes principales de inercia?",
+    "answer": "Los ejes principales de inercia son precisamente las rectas o ejes formados por vectores propios del tensor de inercia. Tienen la propiedad interesante de que un sólido que gira libremente alrededor de uno de estos ejes no varía su orientación en el espacio."
+  },
+  {
+    "id": "10",
+    "title": "¿Qué es ingenieria civil?",
+    "answer": "Es un oficio que se dedica a las construcciones de obras civiles."
+  },
+  {
+    "id": "11",
+    "title": "¿Qué tan antigua es la ingenieria civil?",
+    "answer": "La ingeniería civil es la más antigua después de la ingeniería militar, de ahí su nombre para distinguir las actividades no militares con las militares. Tradicionalmente ha sido dividida en varias subdisciplinas incluyendo ingeniería ambiental , ingeniería sanitaria, ingeniería geotécnica, geofísica, geodesia, ingeniería de control, ingeniería estructural, mecánica, ingeniería del transporte, ciencias de la tierra, ingeniería del urbanismo, ingeniería del territorio, ingeniería hidráulica, ingeniería de los materiales, ingeniería de costas, agrimensura, e ingeniería de la construcción. "
+  },
+  {
+    "id": "12",
+    "title": "¿Donde ocupan puestos los ingenieros civiles?",
+    "answer": "Los ingenieros civiles ocupan puestos en prácticamente todos los niveles: en el sector público desde el ámbito municipal al gubernamental y en el ámbito privado desde los pequeños consultores autónomos que trabajan en casa hasta los contratados en grandes compañías internacionales."
+  },
+  {
+    "id": "13",
+    "title": "¿CUALES SON LOS TRABAJOS QUE SE REALIZAN EN LA INGENIERIA CIVIL?",
+    "answer": "La ingeniería civil es la disciplina de la ingeniería profesional que emplea conocimiento de cálculo, mecánica, hidráulica, y física para encargarse del diseño , construcción y mantenimiento de las infraestructuras emplazadas en el entorno, incluyendo carreteras , ferrocarriles, puentes, canales, presas, puertos, aeropuertos, diques y otras construcciones relacionadas."
+  },
+  {
+    "id": "14",
+    "title": "¿QUE ES UNA EDIFICACION?",
+    "answer": "Es un conjunto de cerramientos verticales y horizontales que generan en su interior un microclima adecuado para cumplir una función específica dependiendo de la función de la edificación."
+  },
+  {
+    "id": "15",
+    "title": "¿QUE SOSTIENE A UNA EDIFICACION?",
+    "answer": "Lo que se impide que se caiga una edificación es el esquema estructural o esqueleto estructural conformados por elementos de alma llena que la soportan y la transmiten a la fundación."
+  },
+  {
+    "id": "14",
+    "title": "¿QUE ES UNA ESTRUCTURA?",
+    "answer": "Es parte de una edificación, es el esqueleto de una edificación. Es un conjunto de elementos de alma llena conectados entre sí a través de un sistema de vinculación que garantiza la inmovilidad o estática del elemento de alma llena."
+  },
+  {
+    "id": "15",
+    "title": "¿QUE ES UN PERNOTE O DORMITORIO?",
+    "answer": "Es una pequeña edificación que solo sirve para pernotar baños habitaciones, cocinas, salas, etc."
+  },
+  {
+    "id": "16",
+    "title": "¿QUE ES UNA GALERIA?",
+    "answer": "Es una cubierta perimetral para la construcción cerrada o abierta dependiendo del lugar."
+  },
+  {
+    "id": "17",
+    "title": "¿QUE ES UNA VIVIENDA?",
+    "answer": "Una vivienda es una edificación adecuada para un número típico de personas, normalmente de 6 personas, es una edificación de tipo modular con comedor y cocina, si existe un recibidor normalmente forma parte de la galería. Es un conjunto de módulos, sala de estar, cocinas, baños y galerías o pernotes."
+  },
+  {
+    "id": "18",
+    "title": "¿CUAL ES LA PRINCIPAL CAUSA DE DERRUMBE DE UNA EDIFICACION?",
+    "answer": "La principal causa es la gravedad de la tierra que ejerce una fuerza centrípeta hacia el nadir perpendicular."
+  },
+  {
+    "id": "19",
+    "title": "¿QUE ES UN TENSOR?",
+    "answer": "Es un elemento lineal con capacidad portante predominante a la tracción."
+  },
+  {
+    "id": "20",
+    "title": "¿QUE ES FLEXION PURA?",
+    "answer": "Es la consecuencia de unos esfuerzos o momentos exteriores que nos producen en la sección cortada exclusivamente  un momento de flexión. "
+  },
+  {
+    "id": "21",
+    "title": "¿QUE ES FLEXION COMPUESTA?",
+    "answer": "-definición 1: es la tensión interna a la que se somete una fibra cualquiera de una sección transversal cualquiera de un elemento lineal que tiene como causa externa de perturbación  una fuerza axil que puede ser de compresión o tracción aplicada excéntrica respecto del baricentro de la sección, tal que al abatir la acción hacia el baricentro se genera un par de magnitud equivalente a la fuerza actual multiplicada por la excentricidad. -definición 2: es la tensión interna a la que se somete una fibra cualquiera de una sección transversal cualquiera de un elemento lineal  sometidos a 2 causas externas de perturbación combinadas aplicando al principio de superposición de efectos una fuerza axil aplicada al baricentro y además un par aplicado en la misma sección."
+  },
+  {
+    "id": "22",
+    "title": "¿CUANTAS CLASES DE FLEXION EXISTEN? DEFINIR",
+    "answer": "Existen 2 clases de flexión compuesta: Flexión compuesta normal: si el axil excéntrico se aplica sobre un eje principal de inercia y la flexión compuesta resultante será normal. Flexión compuesta oblicua: si el axil excéntrico no se aplica sobre un eje principal de inercia la flexión compuesta es oblicua."
+  },
+  {
+    "id": "23",
+    "title": "¿QUE ES FLEXION SIMPLE?",
+    "answer": "Es una solicitación sobre una sección que combina un momento flector y un esfuerzo cortante contenido en dicha sección. "
+  },
+  {
+    "id": "24",
+    "title": "¿QUE ES UNA ECUACION HIPERESTATICA?",
+    "answer": "Son ecuaciones de compatibilidad matemática para obtener solución única en elementos hiperestáticos superabundantemente sustentados."
+  },
+  {
+    "id": "25",
+    "title": "¿QUE ES UNA MENSULA?",
+    "answer": "Es un elemento de alma llena que puede ser lineal o no con capacidad portante predominante al esfuerzo cortante."
+  },
+  {
+    "id": "26",
+    "title": "¿QUE ES UNA LOSA?",
+    "answer": "Una losa de cimentación es una placa de hormigón apoyada sobre el terreno la cual reparte el peso y las cargas del edificio sobre toda la superficie de apoyo."
+  },
+  {
+    "id": "27",
+    "title": "¿QUE ES ESTABILIDAD ELASTICA?",
+    "answer": "Es la capacidad flexionante de un soporte."
+  },
+  {
+    "id": "28",
+    "title": "¿QUE ES UNA ESTRUCTURA ISOSTATICA?",
+    "answer": "Estructura que puede ser analizada mediante los principios de la estática, la supresión de cualquiera de sus ligaduras conduce al colapso. También llamada estructura estáticamente determinada."
+  },
+  {
+    "id": "29",
+    "title": "¿QUE ES UNA ESTRUCTURA HIPERESTATICA?",
+    "answer": "Estructura que necesita más elementos de los necesarios para mantenerse estable, la supresión de uno de ellos no conduce al colapso, pero modifica sus condiciones de funcionamiento estático. También llamada estructura estáticamente indeterminada."
+  },
+  {
+    "id": "30",
+    "title": "¿QUE ES UN ELEMENTO DE SUJECION Y CUANTOS CONOCE?",
+    "answer": "Todo elemento de alma llena que pertenece al conjunto estructural garantiza su régimen estático por medio de sujetadores que le impiden los 3 grados de libertad de movimiento del plano y los 4 grados de libertad de movimiento en el espacio tridimensional estos elementos de sujeción se denominan vínculos y podrán denominarse rígidos o elásticos, un vínculo rígido implica deformación nula en el sentido de restricción del movimiento por tanto su rigidez es infinita, este concepto es usado en la formación de la ingeniería de la construcción mas es imposible aplicarlo en la vida real. Como elementos de sujeción se entienden, en primer lugar, tornillos y tuercas de todas formas y variaciones. Sin embargo, también se incluyen ganchos, cáncamos, bulones y remaches como elementos que deben mantenerse unidos bajo cargas determinadas. La técnica de uniones en general y la técnica de soldadura en especial se incluyen en este grupo."
+  },
+  {
+    "id": "31",
+    "title": "¿QUE ES UN EJE DE INERCIA?",
+    "answer": "Es un eje cualquiera que pasa por el baricentro de la sección transversal. "
+  },
+  {
+    "id": "32",
+    "title": "¿CUANTAS CLASES DE DEFORMACION GENERA LA FLEXION?",
+    "answer": "Genera 2 clases de deformación un giro de la sección transversal y genera además una deformación lineal a la línea baricentrica que sigue el sentido de la causa de perturbación."
+  },
+  {
+    "id": "33",
+    "title": "¿CUANTOS TIPOS DE FLEXION EXISTEN?",
+    "answer": "Existen 2 tipos: flexión simple y flexión compuesta. La flexión es un momento estático, es un vector circular equivalente a un par de fuerzas aplicadas a la sección transversal separadas por una distancia."
+  },
+  {
+    "id": "34",
+    "title": "¿QUE ES UN EJE DE INERCIA PRINCIPAL?",
+    "answer": "Es el par de ejes conjugados ortogonales para estos ejes los momentos de inercia alcanzan los valores máximos o mínimos. "
+  },
+  {
+    "id": "35",
+    "title": "¿QUE ES EJE DE INERCIA?",
+    "answer": "Son los radios vectores de una sección que pasan por el baricentro de una sección. Todos los ejes que pasan por el baricentro de una sección se denominan eje de inercia. El eje de inercia rige a la flexión oblicua y a la flexión simple."
+  },
+  {
+    "id": "36",
+    "title": "¿QUE ES UN ESQUEMA ESTRUCTURAL DE UNA EDIFICACION?",
+    "answer": "Es un conjunto de elementos de alma llena conectados entre sí por vínculos estáticos a través de los cuales un elemento transmite su reacción total en un vínculo al próximo elemento así sucesivamente hasta llegar a los elementos de fundación que reciban la fuerza total de la acción de todo esquema estructural, con el porcentaje que le corresponde que depende de la geometría poligonal que le corresponde estos elementos de fundación someten al suelo que lo sostiene a una acción equivalente a la reacción en el elemento de la estructura o elemento estructural."
+  },
+  {
+    "id": "37",
+    "title": "¿CUAL ES EL ELEMENTO MAS DIFICIL DE DIMENSIONAR EN UNA ESTRUCTURA?",
+    "answer": "El elemento más difícil de dimensionar y más peligroso es el soporte."
+  },
+  {
+    "id": "38",
+    "title": "¿QUE IMPIDE QUE UN EDIFICIO SE CAIGA, QUE SOSTIENE UNA EDIFICACION?",
+    "answer": "Lo que impide que una edificación se caiga es el esquema estructural o esqueleto estructural conformado por elementos de alma llena que lo soportan y la trasmiten las cargas a la fundación."
+  },
+  {
+    "id": "39",
+    "title": "¿QUE ES UNA PLATEA?",
+    "answer": "Son cimentaciones superficiales, sobre el terreno natural. Las vemos tanto en viviendas comunes como en edificios. Consta de una losa de hormigón armado apoyada en el terreno, reforzada con vigas perimetrales y vigas debajo de los muros portantes."
+  },
+  {
+    "id": "40",
+    "title": "¿QUE ES UN EDIFICIO?",
+    "answer": "Conocido como edificación es tan solo un conjunto de cerramientos que en su interior encierra un microclima para su convivencia. Una casa es una edificación compuesta."
+  },
+  {
+    "id": "41",
+    "title": "¿QUE ES UN TUNEL?",
+    "answer": "Es una obra subterránea de carácter lineal cuyo objetivo es la comunicación de 2 puntos para realizar el transporte de las personas, materiales entre otras cosas normalmente es artificial."
+  },
+  {
+    "id": "42",
+    "title": "¿QUE ES UN VIADUCTO?",
+    "answer": "Es un puente compuesto por varios arcos, para el paso de un camino de una hondonada."
+  },
+  {
+    "id": "43",
+    "title": "¿QUE ES UN PUENTE?",
+    "answer": "Es una construcción por lo general artificial que permite salvar un accidente geográfico o cualquier otro obstáculo físico como un rio, valle, camino vía férrea, etc. "
+  },
+  {
+    "id": "44",
+    "title": "¿QUE ES VADO?",
+    "answer": "Es una parte rebajada del bordillo de la vía pública espacio modificado en la acera que se destina al libre acceso de vehículos o a locales afines situados frente al mismo."
+  },
+  {
+    "id": "45",
+    "title": "¿QUE ES UN MURO DE CONTENSION?",
+    "answer": "Es un elemento constructivo destinado para soportar el empuje de tierras."
+  },
+  {
+    "id": "46",
+    "title": "¿QUE ES UNA CUBIERTA?",
+    "answer": "Es un elemento constructivo que protege a los edificios en la parte superior y por extensión a la estructura sustentante de dicha cubierta. Estos pueden ser techumbres inclinadas y planas."
+  },
+  {
+    "id": "47",
+    "title": "¿QUE ES UNA LOSA DE PISO?",
+    "answer": "Son tipos de cimentaciones superficiales sobre el terreno natural y se ven tanto en vivienda comunes o edificios consta de una losa apoyada en el terreno, reforzadas por vigas perimetrales y vigas debajo de los muros portantes."
+  },
+  {
+    "id": "48",
+    "title": "¿QUE ES UNA ZAPATA AISLADA?",
+    "answer": "Son un tipo de cimentación superficial que sirve de base de elementos estructural puntuales como son los pilares."
+  },
+  {
+    "id": "49",
+    "title": "¿QUE ES UN PILOTE?",
+    "answer": "Es un elemento constructivo utilizado para cimentación de obras civiles tiene forma de columna colocada en espiral en el interior del terreno sobre la cual se apoya el elemento que transmite las cargas."
+  },
+  {
+    "id": "50",
+    "title": "¿QUE ES DEFORMACION?",
+    "answer": "Es el cambio en la forma de un cuerpo debido a fuerzas externas de tracción o compresión."
+  },
+  {
+    "id": "51",
+    "title": "¿QUE ES UN ELEMENTO DIFERENCIAL?",
+    "answer": "Es una parte muy pequeña de alguna cantidad que al integrarla sería una aproximación de la cantidad real."
+  },
+  {
+    "id": "52",
+    "title": "¿QUE ES MODULO DE ELASTICIDAD?",
+    "answer": "Tiene 2 explicaciones una gráfica y otro sentido del material. Desde el punto de vista grafico se dice que es la pendiente de la recta o línea de proporcionalidad del rango elástico. Desde el punto de vista conceptual del comportamiento del material se dice que es la rigidez que ofrece el material."
+  },
+  {
+    "id": "53",
+    "title": "¿QUE DIFERENCIA HAY ENTRE CILINDROS DE PARDE DELGADA Y PARED GRUESA?",
+    "answer": "En cilindros de pared gruesa la distribución de tensiones no es uniforme mientras en los cilindros de pared delgada la distribución de tensiones es casi uniforme."
+  },
+  {
+    "id": "54",
+    "title": "¿QUE SON LOS CABLES?",
+    "answer": "Son elementos flexibles capaces de soportar únicamente tensión y que están diseñados para soportar cargas concentradas."
+  },
+  {
+    "id": "55",
+    "title": "DEFINA QUE ES UNA COLUMNA",
+    "answer": "Son apoyos que sostienen a los techos, vigas y losas colocados verticalmente."
+  },
+  {
+    "id": "56",
+    "title": "¿QUE ES PANDEO?",
+    "answer": "Es un fenómeno de inestabilidad elástica en elementos comprimidos esbeltos apareciendo por lo general en columnas."
+  },
+  {
+    "id": "57",
+    "title": "¿QUE ES LINEA NEUTRA?",
+    "answer": "Es una línea que no se alarga ni se acorta en la deformación de un elemento."
+  },
+  {
+    "id": "58",
+    "title": "¿Qué es la estatica?",
+    "answer": "La estática es parte de la mecánica que estudia las leyes de equilibrio."
+  },
+  {
+    "id": "59",
+    "title": "¿Qué es la dinámica?",
+    "answer": "Parte de la mecánica que trata de las leyes del movimiento en relación con las fuerzas que lo producen."
+  },
+  {
+    "id": "60",
+    "title": "¿Qué es la inercia?",
+    "answer": "Es la resistencia que tiene un cuerpo para estar en reposo para cambiar de velocidad en movimiento"
+  },
+  {
+    "id": "61",
+    "title": "¿Qué es el momento de inercia?",
+    "answer": "Es la resistencia de un cuerpo para girar."
+  },
+  {
+    "id": "62",
+    "title": "¿Qué es la fragilidad?",
+    "answer": "Es el material que no presenta resistencia de impacto"
+  },
+  {
+    "id": "63",
+    "title": "¿Qué es la tenacidad?",
+    "answer": "Es el material que presenta resistencia al impacto"
+  },
+  {
+    "id": "64",
+    "title": "¿Cuáles son los momentos de flector?",
+    "answer": "Son componentes que miden la resistencia del cuerpo a curvarse o flexar con respecto a los ejes."
+  },
+  {
+    "id": "65",
+    "title": "¿Cuáles son los momentos de torsor?",
+    "answer": "Son componentes que miden la resistencia a la torsión del sólido."
+  },
+  {
+    "id": "66",
+    "title": "¿Qué es Ductilidad?",
+    "answer": "Es cuando el material tensionado se comporta como hilos capacidad de deformarse."
+  },
+  {
+    "id": "67",
+    "title": "¿Qué es Maleabilidad?",
+    "answer": "Es cuando el material que al doblarlo se comporta como laminas."
+  }
+]
